@@ -1,0 +1,25 @@
+.navbar-brand {
+  background-color: #4baaa5;
+  text-align: center;
+}
+
+body {
+  background-image: url("../images/homework02background.png");
+}
+
+h1 {
+  color: #4baaa5;
+}
+
+.form-group {
+  font-weight: bold;
+}
+
+.btn {
+  background-color: #4baaa5;
+  border-color: #4baaa5;
+}
+
+.col-sm-6 {
+  background-color: white;
+}
