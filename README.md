@@ -21,9 +21,9 @@ It is built using Bootstrap CSS.
 
 ## Usage
 
-[Deployed Semantic HTML Website](https://pakmk.github.io/gt-semantic-html-homework-01/)
+[Deployed HTML Website](https://pakmk.github.io/homework02/)
 
-![Horiseom Website](./assets/images/horiseom.png)
+![Min's Website](./assets/images/aboutme.png)
 
 ## Credits
 
